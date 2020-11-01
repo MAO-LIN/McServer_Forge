@@ -80,3 +80,12 @@
 [17:47:58] [Server thread/INFO]: VisriA joined the game
 [17:47:58] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@56dd521b (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
 [17:47:58] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@d7dda27 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[17:51:25] [User Authenticator #4/INFO]: UUID of player TGMatcha is 2cbae14f-c63f-4cc0-a9d6-3aada4428016
+[17:51:26] [Server thread/INFO]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@61e7973c
+[17:51:26] [Server thread/INFO]: TGMatcha[/61.62.74.171:62050] logged in with entity id 2724 at (-453.30000001192093, 88.0, -528.5789725384235)
+[17:51:26] [Server thread/INFO]: TGMatcha joined the game
+[17:51:27] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.ModIdArgument@56dd521b (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[17:51:27] [Netty Epoll Server IO #0/ERROR]: Could not serialize net.minecraftforge.server.command.EnumArgument@d7dda27 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[17:52:44] [Server thread/INFO]: [TGMatcha: Set own game mode to Creative Mode]
+[17:53:14] [Server thread/INFO]: TGMatcha has made the advancement [Ol' Betsy]
+[18:07:13] [Server thread/INFO]: <VisriA> wwwwwwwwwwwwwww
